@@ -31,6 +31,11 @@ This dataset has 3333 instances of 20 descriptive features and 1 target variable
 <u>Target variable</u>
 >churn
 
+This repo contains three folders.
+data: Has the original file as 'SyriaTel_customer_data', preproccessed file, and additional features. 
+notebooks: has two notebooks 'EDA' and 'Modeling'
+graphs_and_images: all the important graphs created in the notebooks
+
 ## Goal
 
 The goal for this project is to determine what leads customers astray and to predict if a customer will leave.
@@ -80,6 +85,9 @@ This is a summary of the models and their scores
 
 The final model can predict 82% of all customers who leave. 
 The length of calls is the greatest influence on our predictions. This leads me wondering whether there is some level of service interruption. Moving forward we should collect data on dropped calls and overall call quality. Additionally, we need to be more careful with our customer service, it would be wise to add a feature including the reason for their call.
+
+
+
 
 
 
