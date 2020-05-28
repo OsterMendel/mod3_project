@@ -31,10 +31,10 @@ This dataset has 3333 instances of 20 descriptive features and 1 target variable
 <u>Target variable</u>
 >churn
 
-This repo contains three folders.
-data: Has the original file as 'SyriaTel_customer_data', preproccessed file, and additional features. 
-notebooks: has two notebooks 'EDA' and 'Modeling'
-graphs_and_images: all the important graphs created in the notebooks
+This repo contains three folders.<br>
+data: Has the original file as 'SyriaTel_customer_data', preproccessed file, and additional features<br>
+notebooks: has two notebooks 'EDA' and 'Modeling'<br>
+graphs_and_images: all the important graphs created in the notebooks<br>
 
 ## Goal
 
